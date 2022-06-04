@@ -2,6 +2,6 @@ Readme for lightning experiment repo.
 
 Files:
 
-- **notebooks/MNINST_nn.ipynb** - basic TabNet example adapted from [https://www.geeksforgeeks.org/tabnet/](https://www.geeksforgeeks.org/tabnet/)
-- **notebooks/MNINST_lightning.ipynb** - test 2
+- **notebooks/MNINST_nn.ipynb** - basic PyTorch MNIST example adapted from [https://youtu.be/OMDn66kM9Qc](https://youtu.be/OMDn66kM9Qc)  
+- **notebooks/MNINST_lightning.ipynb** - above notebook updated to use lightning rather than vanilla PyTorch
 
